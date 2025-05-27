@@ -44,3 +44,6 @@ terraform.rtf
 terraform
 backends.rtf
 commands.rtf
+providers.tf
+concepts.rtf
+plan*
